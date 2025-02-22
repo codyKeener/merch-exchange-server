@@ -2,7 +2,7 @@ from django.http import HttpResponseServerError
 from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from rest_framework import serializers, status
-from merchexchangeapi.models import User
+from merchexchangeapi.models import User, WishlistListing, Listing
 
 class UserView(ViewSet):
   
@@ -10,6 +10,11 @@ class UserView(ViewSet):
     
       try:
         user = User.objects.get(pk=pk)
+        
+        ## what value from listing needs to match
+        wishlist_listings = Listing.objects.filter(wishlistlisting__user=user)
+        user.wishlist_listings=wishlist_listings
+        
         serializer = UserSerializer(user)
         return Response(serializer.data)
       except User.DoesNotExist as ex:
@@ -24,6 +29,10 @@ class UserView(ViewSet):
       ## FOR GETTING USER BY UID
       if uid is not None:
         users = users.filter(uid=uid)
+        
+      for user in users:
+        wishlist_listings = Listing.objects.filter(wishlistlisting__user=user)
+        user.wishlist_listings=wishlist_listings
         
       serializer = UserSerializer(users, many=True)
         
@@ -64,10 +73,18 @@ class UserView(ViewSet):
     user = User.objects.get(pk=pk)
     user.delete()
     return Response(None, status=status.HTTP_204_NO_CONTENT)
+    
+class ListingSerializer(serializers.ModelSerializer):
+
+  class Meta:
+    model = Listing
+    fields = ('id', 'title', 'artist', 'category', 'description', 'price', 'size', 'condition', 'image', 'created_by', 'created_at', 'published', 'sold')
+    # depth = 1
   
 class UserSerializer(serializers.ModelSerializer):
 
+  wishlist_listings = ListingSerializer(read_only=True, many=True)
   class Meta:
     model = User
-    fields = ('id', 'username', 'first_name', 'last_name', 'email', 'bio', 'uid', 'is_admin', 'is_artist')
+    fields = ('id', 'username', 'first_name', 'last_name', 'email', 'bio', 'uid', 'is_admin', 'is_artist', 'wishlist_listings')
     depth = 1
