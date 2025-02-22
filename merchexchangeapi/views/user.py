@@ -50,7 +50,7 @@ class UserView(ViewSet):
       user.username=request.data["username"]
       user.first_name=request.data["first_name"]
       user.last_name=request.data["last_name"]
-      user.email=request.data["email"],
+      user.email=request.data["email"]
       user.bio=request.data["bio"]
       user.uid=request.data["uid"]
       user.is_admin=request.data["is_admin"]
