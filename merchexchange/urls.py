@@ -19,11 +19,17 @@ from django.conf.urls import include
 from rest_framework import routers
 
 from merchexchangeapi.views import (
-    UserView
+    UserView,
+    ListingView,
+    ArtistView,
+    CategoryView
 )
 
 router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'users', UserView, 'user')
+router.register(r'listings', ListingView, 'listing')
+router.register(r'artists', ArtistView, 'artist')
+router.register(r'categories', CategoryView, 'category')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
