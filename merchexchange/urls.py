@@ -23,7 +23,8 @@ from merchexchangeapi.views import (
     ListingView,
     ArtistView,
     CategoryView,
-    WishListListingView
+    WishListListingView,
+    check_user
 )
 
 router = routers.DefaultRouter(trailing_slash=False)
@@ -35,5 +36,6 @@ router.register(r'wishlistlistings', WishListListingView, 'wishlistlisting')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include(router.urls))
+    path('', include(router.urls)),
+    path('checkuser', check_user)
 ]
