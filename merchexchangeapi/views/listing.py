@@ -21,11 +21,18 @@ class ListingView(ViewSet):
   def list(self, request):
     
     artist = request.query_params.get('artist', None)
+    created_by_uid = request.query_params.get('created_by', None)
+    category = request.query_params.get('category', None)
     
     listings = Listing.objects.all()
     
     if artist is not None:
       listings = listings.filter(artist=artist)
+    if created_by_uid is not None:
+      created_by = User.objects.get(uid=created_by_uid)
+      listings = listings.filter(created_by=created_by)
+    if category is not None:
+      listings = listings.filter(category=category)
     
     serializer = ListingSerializer(listings, many=True)
     return Response(serializer.data)
