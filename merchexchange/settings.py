@@ -39,8 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'corsheaders',
-    'merchexchangeapi',
-    'djmoney'
+    'merchexchangeapi'
 ]
 
 CORS_ORIGIN_WHITELIST = (
