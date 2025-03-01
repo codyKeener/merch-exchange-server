@@ -2,7 +2,7 @@ from django.http import HttpResponseServerError
 from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from rest_framework import serializers, status
-from merchexchangeapi.models import User, WishlistListing, Listing
+from merchexchangeapi.models import User, Listing
 
 class UserView(ViewSet):
   
@@ -11,7 +11,6 @@ class UserView(ViewSet):
       try:
         user = User.objects.get(pk=pk)
         
-        ## what value from listing needs to match
         wishlist_listings = Listing.objects.filter(wishlistlisting__user=user)
         user.wishlist_listings=wishlist_listings
         
