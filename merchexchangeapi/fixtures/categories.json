@@ -1,0 +1,107 @@
+[
+  {
+    "model": "merchexchangeapi.category",
+    "pk": 1,
+    "fields": {
+      "label": "Shirts"
+    }
+  },
+  {
+    "model": "merchexchangeapi.category",
+    "pk": 2,
+    "fields": {
+      "label": "Long Sleeve Shirts"
+    }
+  },
+  {
+    "model": "merchexchangeapi.category",
+    "pk": 3,
+    "fields": {
+      "label": "Pants"
+    }
+  },
+  {
+    "model": "merchexchangeapi.category",
+    "pk": 4,
+    "fields": {
+      "label": "Shorts"
+    }
+  },
+  {
+    "model": "merchexchangeapi.category",
+    "pk": 5,
+    "fields": {
+      "label": "Hoodies"
+    }
+  },
+  {
+    "model": "merchexchangeapi.category",
+    "pk": 6,
+    "fields": {
+      "label": "Jackets"
+    }
+  },
+  {
+    "model": "merchexchangeapi.category",
+    "pk": 7,
+    "fields": {
+      "label": "Hats"
+    }
+  },
+  {
+    "model": "merchexchangeapi.category",
+    "pk": 8,
+    "fields": {
+      "label": "Socks"
+    }
+  },
+  {
+    "model": "merchexchangeapi.category",
+    "pk": 9,
+    "fields": {
+      "label": "Accessories"
+    }
+  },
+  {
+    "model": "merchexchangeapi.category",
+    "pk": 10,
+    "fields": {
+      "label": "Vinyl"
+    }
+  },
+  {
+    "model": "merchexchangeapi.category",
+    "pk": 11,
+    "fields": {
+      "label": "CDs"
+    }
+  },
+  {
+    "model": "merchexchangeapi.category",
+    "pk": 12,
+    "fields": {
+      "label": "Cassettes"
+    }
+  },
+  {
+    "model": "merchexchangeapi.category",
+    "pk": 13,
+    "fields": {
+      "label": "Posters"
+    }
+  },
+  {
+    "model": "merchexchangeapi.category",
+    "pk": 14,
+    "fields": {
+      "label": "Wall Flags"
+    }
+  },
+  {
+    "model": "merchexchangeapi.category",
+    "pk": 15,
+    "fields": {
+      "label": "Memorabilia"
+    }
+  }
+]
