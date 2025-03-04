@@ -20,9 +20,14 @@ def check_user(request):
     if user is not None:
         data = {
             'id': user.id,
-            'name': user.name,
+            'username': user.username,
+            'first_name': user.first_name,
+            'last_name': user.last_name,
+            'email': user.email,
             'bio': user.bio,
-            'uid': user.uid
+            'uid': user.uid,
+            'is_admin': False,
+            'is_artist': False
         }
         return Response(data)
     else:
