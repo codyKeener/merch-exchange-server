@@ -45,6 +45,7 @@ class UserView(ViewSet):
         last_name=request.data["last_name"],
         email=request.data["email"],
         bio=request.data["bio"],
+        profile_pic=request.data["profile_pic"],
         uid=request.data["uid"],
         is_admin=request.data["is_admin"],
         is_artist=request.data["is_artist"]
@@ -60,6 +61,7 @@ class UserView(ViewSet):
       user.last_name=request.data["last_name"]
       user.email=request.data["email"]
       user.bio=request.data["bio"]
+      user.profile_pic=request.data["profile_pic"]
       user.uid=request.data["uid"]
       user.is_admin=request.data["is_admin"]
       user.is_artist=request.data["is_artist"]
@@ -85,5 +87,5 @@ class UserSerializer(serializers.ModelSerializer):
   wishlist_listings = ListingSerializer(read_only=True, many=True)
   class Meta:
     model = User
-    fields = ('id', 'username', 'first_name', 'last_name', 'email', 'bio', 'uid', 'is_admin', 'is_artist', 'wishlist_listings')
+    fields = ('id', 'username', 'first_name', 'last_name', 'email', 'bio', 'profile_pic', 'uid', 'is_admin', 'is_artist', 'wishlist_listings')
     depth = 1
