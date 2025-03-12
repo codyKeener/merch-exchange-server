@@ -3,105 +3,88 @@
     "model": "merchexchangeapi.category",
     "pk": 1,
     "fields": {
-      "label": "Shirts"
+      "label": "Shirts",
+      "image": "/t-shirt.png"
     }
   },
   {
     "model": "merchexchangeapi.category",
     "pk": 2,
     "fields": {
-      "label": "Long Sleeve Shirts"
+      "label": "Long Sleeve Shirts",
+      "image": "/long-sleeve-shirt.png"
     }
   },
   {
     "model": "merchexchangeapi.category",
     "pk": 3,
     "fields": {
-      "label": "Pants"
+      "label": "Pants",
+      "image": "/pants.png"
     }
   },
   {
     "model": "merchexchangeapi.category",
     "pk": 4,
     "fields": {
-      "label": "Shorts"
+      "label": "Shorts",
+      "image": "/shorts.png"
     }
   },
   {
     "model": "merchexchangeapi.category",
     "pk": 5,
     "fields": {
-      "label": "Hoodies"
+      "label": "Hoodies",
+      "image": "/hoodie.png"
     }
   },
   {
     "model": "merchexchangeapi.category",
     "pk": 6,
     "fields": {
-      "label": "Jackets"
+      "label": "Jackets",
+      "image": "/jacket.png"
     }
   },
   {
     "model": "merchexchangeapi.category",
     "pk": 7,
     "fields": {
-      "label": "Hats"
+      "label": "Hats",
+      "image": "/hat.png"
     }
   },
   {
     "model": "merchexchangeapi.category",
     "pk": 8,
     "fields": {
-      "label": "Socks"
+      "label": "Accessories",
+      "image": "/mug.png"
     }
   },
   {
     "model": "merchexchangeapi.category",
     "pk": 9,
     "fields": {
-      "label": "Accessories"
+      "label": "Vinyl",
+      "image": "/vinyl.png"
     }
   },
   {
     "model": "merchexchangeapi.category",
     "pk": 10,
     "fields": {
-      "label": "Vinyl"
+      "label": "CDs",
+      "image": "/cds.png"
     }
   },
   {
     "model": "merchexchangeapi.category",
     "pk": 11,
     "fields": {
-      "label": "CDs"
-    }
-  },
-  {
-    "model": "merchexchangeapi.category",
-    "pk": 12,
-    "fields": {
-      "label": "Cassettes"
-    }
-  },
-  {
-    "model": "merchexchangeapi.category",
-    "pk": 13,
-    "fields": {
-      "label": "Posters"
-    }
-  },
-  {
-    "model": "merchexchangeapi.category",
-    "pk": 14,
-    "fields": {
-      "label": "Wall Flags"
-    }
-  },
-  {
-    "model": "merchexchangeapi.category",
-    "pk": 15,
-    "fields": {
-      "label": "Memorabilia"
+      "label": "Posters",
+      "image": "/poster.png"
     }
   }
 ]

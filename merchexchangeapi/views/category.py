@@ -26,6 +26,7 @@ class CategoryView(ViewSet):
 
         category = Category.objects.create(
           label=request.data["label"],
+          image=request.data["image"],
         )
         serializer = CategorySerializer(category)
         return Response(serializer.data, status=status.HTTP_201_CREATED)
@@ -34,6 +35,7 @@ class CategoryView(ViewSet):
 
         category = Category.objects.get(pk=pk)
         category.label = request.data["label"]
+        category.image = request.data["image"]
         category.save()
 
         serializer = CategorySerializer(category)
@@ -48,4 +50,4 @@ class CategorySerializer(serializers.ModelSerializer):
     
     class Meta:
         model = Category
-        fields = ('id', 'label')
+        fields = ('id', 'label', 'image' )
