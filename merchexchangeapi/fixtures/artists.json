@@ -1,0 +1,6266 @@
+[
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 1,
+    "fields": {
+        "name": "10 Years",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 2,
+    "fields": {
+        "name": "Adagio",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 3,
+    "fields": {
+        "name": "Aeon Zen",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 4,
+    "fields": {
+        "name": "After Forever",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 5,
+    "fields": {
+        "name": "Agalloch",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 6,
+    "fields": {
+        "name": "Age of Nemesis",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 7,
+    "fields": {
+        "name": "Aghora",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 8,
+    "fields": {
+        "name": "Akercocke",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 9,
+    "fields": {
+        "name": "Aletheian",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 10,
+    "fields": {
+        "name": "Alchemist",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 11,
+    "fields": {
+        "name": "Alter Bridge",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 12,
+    "fields": {
+        "name": "Amorphis",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 13,
+    "fields": {
+        "name": "Amoral",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 14,
+    "fields": {
+        "name": "Anacrusis",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 15,
+    "fields": {
+        "name": "Angband",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 16,
+    "fields": {
+        "name": "Angra",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 17,
+    "fields": {
+        "name": "Animals as Leaders",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 18,
+    "fields": {
+        "name": "Anubis Gate",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 19,
+    "fields": {
+        "name": "Atheist",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 20,
+    "fields": {
+        "name": "August Burns Red",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 21,
+    "fields": {
+        "name": "Avenged Sevenfold",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 22,
+    "fields": {
+        "name": "Ayreon",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 23,
+    "fields": {
+        "name": "Azusa",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 24,
+    "fields": {
+        "name": "Balance of Power",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 25,
+    "fields": {
+        "name": "Baroness",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 26,
+    "fields": {
+        "name": "Becoming the Archetype",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 27,
+    "fields": {
+        "name": "Believer",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 28,
+    "fields": {
+        "name": "Benevolent",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 29,
+    "fields": {
+        "name": "Benea Reach",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 30,
+    "fields": {
+        "name": "Between the Buried and Me",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 31,
+    "fields": {
+        "name": "Beyond Twilight",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 32,
+    "fields": {
+        "name": "Bigelf",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 33,
+    "fields": {
+        "name": "Biomechanical",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 34,
+    "fields": {
+        "name": "The Black Mages",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 35,
+    "fields": {
+        "name": "Blind Illusion",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 36,
+    "fields": {
+        "name": "Borknagar",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 37,
+    "fields": {
+        "name": "Born of Osiris",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 38,
+    "fields": {
+        "name": "Burst",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 39,
+    "fields": {
+        "name": "Cacophony",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 40,
+    "fields": {
+        "name": "Caligula's Horse",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 41,
+    "fields": {
+        "name": "Candiria",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 42,
+    "fields": {
+        "name": "Cattle Decapitation",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 43,
+    "fields": {
+        "name": "Carbonized",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 44,
+    "fields": {
+        "name": "Circus Maximus",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 45,
+    "fields": {
+        "name": "Confessor",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 46,
+    "fields": {
+        "name": "Communic",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 47,
+    "fields": {
+        "name": "Coheed and Cambria",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 48,
+    "fields": {
+        "name": "Conception",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 49,
+    "fields": {
+        "name": "Coroner",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 50,
+    "fields": {
+        "name": "Crimson Glory",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 51,
+    "fields": {
+        "name": "Cronian",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 52,
+    "fields": {
+        "name": "Cynic",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 53,
+    "fields": {
+        "name": "Dark Suns",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 54,
+    "fields": {
+        "name": "DBC",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 55,
+    "fields": {
+        "name": "Death (later)",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 56,
+    "fields": {
+        "name": "The Dillinger Escape Plan",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 57,
+    "fields": {
+        "name": "Deus Invictus",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 58,
+    "fields": {
+        "name": "Devin Townsend",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 59,
+    "fields": {
+        "name": "Dir En Grey (later)",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 60,
+    "fields": {
+        "name": "Distorted Harmony",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 61,
+    "fields": {
+        "name": "Dog Fashion Disco",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 62,
+    "fields": {
+        "name": "Dream Theater",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 63,
+    "fields": {
+        "name": "Dysrhythmia",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 64,
+    "fields": {
+        "name": "Echoes of Eternity",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 65,
+    "fields": {
+        "name": "Edge of Sanity",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 66,
+    "fields": {
+        "name": "Enchant",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 67,
+    "fields": {
+        "name": "Enslaved",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 68,
+    "fields": {
+        "name": "Epica",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 69,
+    "fields": {
+        "name": "Evergrey",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 70,
+    "fields": {
+        "name": "Extol",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 71,
+    "fields": {
+        "name": "The Faceless",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 72,
+    "fields": {
+        "name": "Fates Warning",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 73,
+    "fields": {
+        "name": "Galactic Cowboys",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 74,
+    "fields": {
+        "name": "Gojira",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 75,
+    "fields": {
+        "name": "Haken",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 76,
+    "fields": {
+        "name": "Iced Earth",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 77,
+    "fields": {
+        "name": "Intervals",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 78,
+    "fields": {
+        "name": "Iron Maiden",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 79,
+    "fields": {
+        "name": "Isis",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 80,
+    "fields": {
+        "name": "Jinjer",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 81,
+    "fields": {
+        "name": "Job for a Cowboy",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 82,
+    "fields": {
+        "name": "John Petrucci",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 83,
+    "fields": {
+        "name": "Kalijuge",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 84,
+    "fields": {
+        "name": "Kamelot",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 85,
+    "fields": {
+        "name": "Katatonia",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 86,
+    "fields": {
+        "name": "Karnivool",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 87,
+    "fields": {
+        "name": "Katagory V",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 88,
+    "fields": {
+        "name": "Kekal",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 89,
+    "fields": {
+        "name": "Khallice",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 90,
+    "fields": {
+        "name": "King's X",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 91,
+    "fields": {
+        "name": "Leah",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 92,
+    "fields": {
+        "name": "Lye by Mistake",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 93,
+    "fields": {
+        "name": "Leprous",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 94,
+    "fields": {
+        "name": "Lethal",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 95,
+    "fields": {
+        "name": "Liquid Graveyard",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 96,
+    "fields": {
+        "name": "Liquid Tension Experiment",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 97,
+    "fields": {
+        "name": "Loathe",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 98,
+    "fields": {
+        "name": "Lotus Eater",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 99,
+    "fields": {
+        "name": "Manticora",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 100,
+    "fields": {
+        "name": "Mastodon",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 101,
+    "fields": {
+        "name": "Mekong Delta",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 102,
+    "fields": {
+        "name": "Meshuggah",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 103,
+    "fields": {
+        "name": "Moonsorrow",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 104,
+    "fields": {
+        "name": "Mudvayne",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 105,
+    "fields": {
+        "name": "Muse",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 106,
+    "fields": {
+        "name": "Mutiny Within",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 107,
+    "fields": {
+        "name": "Myrath",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 108,
+    "fields": {
+        "name": "Narnia",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 109,
+    "fields": {
+        "name": "Ne Obliviscaris",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 110,
+    "fields": {
+        "name": "Necrophagist",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 111,
+    "fields": {
+        "name": "Negură Bunget",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 112,
+    "fields": {
+        "name": "Nerverek",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 113,
+    "fields": {
+        "name": "Nevermore",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 114,
+    "fields": {
+        "name": "Nodes of Ranvier",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 115,
+    "fields": {
+        "name": "Northlane",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 116,
+    "fields": {
+        "name": "No Sin Evades His Gaze",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 117,
+    "fields": {
+        "name": "Obliveon",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 118,
+    "fields": {
+        "name": "Obscura",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 119,
+    "fields": {
+        "name": "Oficina G3",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 120,
+    "fields": {
+        "name": "Opeth",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 121,
+    "fields": {
+        "name": "Orphaned Land",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 122,
+    "fields": {
+        "name": "Pain of Salvation",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 123,
+    "fields": {
+        "name": "Pathosray",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 124,
+    "fields": {
+        "name": "Periphery",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 125,
+    "fields": {
+        "name": "Persefone",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 126,
+    "fields": {
+        "name": "Pestilence",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 127,
+    "fields": {
+        "name": "Planet X",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 128,
+    "fields": {
+        "name": "Platypus",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 129,
+    "fields": {
+        "name": "Porcupine Tree",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 130,
+    "fields": {
+        "name": "Primus",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 131,
+    "fields": {
+        "name": "Prospect",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 132,
+    "fields": {
+        "name": "Protest the Hero",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 133,
+    "fields": {
+        "name": "Prototype",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 134,
+    "fields": {
+        "name": "Proyecto Eskhata",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 135,
+    "fields": {
+        "name": "Puya",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 136,
+    "fields": {
+        "name": "Pyramaze",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 137,
+    "fields": {
+        "name": "Queensrÿche",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 138,
+    "fields": {
+        "name": "Quo Vadis",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 139,
+    "fields": {
+        "name": "Redemption",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 140,
+    "fields": {
+        "name": "Rhapsody of Fire",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 141,
+    "fields": {
+        "name": "Rivers of Nihil",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 142,
+    "fields": {
+        "name": "Riverside",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 143,
+    "fields": {
+        "name": "Royal Hunt",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 144,
+    "fields": {
+        "name": "Rusty Eye",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 145,
+    "fields": {
+        "name": "Savatage",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 146,
+    "fields": {
+        "name": "Scale the Summit",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 147,
+    "fields": {
+        "name": "Sculptured",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 148,
+    "fields": {
+        "name": "Schaliach",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 149,
+    "fields": {
+        "name": "Seventh Wonder",
+        "genre": "Progressive Metal"
+      }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 150,
+    "fields": {
+        "name": "Shadow Gallery",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 151,
+    "fields": {
+        "name": "Derek Sherinian",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 152,
+    "fields": {
+        "name": "Sikth",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 153,
+    "fields": {
+        "name": "Sithu Aye",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 154,
+    "fields": {
+        "name": "Sky Architect",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 155,
+    "fields": {
+        "name": "Sleepytime Gorilla Museum",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 156,
+    "fields": {
+        "name": "Soen",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 157,
+    "fields": {
+        "name": "Sons of Apollo",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 158,
+    "fields": {
+        "name": "Spheric Universe Experience",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 159,
+    "fields": {
+        "name": "Spiral Architect",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 160,
+    "fields": {
+        "name": "Spiritbox",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 161,
+    "fields": {
+        "name": "Spock's Beard",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 162,
+    "fields": {
+        "name": "Star One",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 163,
+    "fields": {
+        "name": "Steelscape",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 164,
+    "fields": {
+        "name": "Stolen Babies",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 165,
+    "fields": {
+        "name": "Stratovarius",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 166,
+    "fields": {
+        "name": "Symphony X",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 167,
+    "fields": {
+        "name": "System of a Down",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 168,
+    "fields": {
+        "name": "Tangerine Circus",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 169,
+    "fields": {
+        "name": "Tesseract",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 170,
+    "fields": {
+        "name": "The Contortionist",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 171,
+    "fields": {
+        "name": "The Human Abstract",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 172,
+    "fields": {
+        "name": "The Mars Volta",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 173,
+    "fields": {
+        "name": "The Ocean",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 174,
+    "fields": {
+        "name": "Therion",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 175,
+    "fields": {
+        "name": "Threshold",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 176,
+    "fields": {
+        "name": "Tiamat",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 177,
+    "fields": {
+        "name": "Tool",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 178,
+    "fields": {
+        "name": "Tourniquet",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 179,
+    "fields": {
+        "name": "Toxicon",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 180,
+    "fields": {
+        "name": "Trivium",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 181,
+    "fields": {
+        "name": "Týr",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 182,
+    "fields": {
+        "name": "Vanden Plas",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 183,
+    "fields": {
+        "name": "Vardøger",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 184,
+    "fields": {
+        "name": "Vektor",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 185,
+    "fields": {
+        "name": "Vision Divine",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 186,
+    "fields": {
+        "name": "Vildhjarta",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 187,
+    "fields": {
+        "name": "Voivod",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 188,
+    "fields": {
+        "name": "VOLA",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 189,
+    "fields": {
+        "name": "Voyager",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 190,
+    "fields": {
+        "name": "Warmen",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 191,
+    "fields": {
+        "name": "Watchtower",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 192,
+    "fields": {
+        "name": "Whom Gods Destroy",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 193,
+    "fields": {
+        "name": "Winger",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 194,
+    "fields": {
+        "name": "Without Face",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 195,
+    "fields": {
+        "name": "Xysma",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 196,
+    "fields": {
+        "name": "Zero Hour",
+        "genre": "Progressive Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 197,
+    "fields": {
+        "name": "He is Legend",
+        "genre": "Metal"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 198,
+    "fields": {
+        "name": "Queen",
+        "genre": "Classic Rock"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 199,
+    "fields": {
+        "name": "Hootie and the Blowfish",
+        "genre": "Alternative"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 200,
+    "fields": {
+        "name": "Diarrhea Planet",
+        "genre": "Alternative"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 201,
+    "fields": {
+        "name": "36 Crazyfists",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 202,
+    "fields": {
+        "name": "7 Angels 7 Plagues",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 203,
+    "fields": {
+        "name": "Abandon All Ships",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 204,
+    "fields": {
+        "name": "The Acacia Strain",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 205,
+    "fields": {
+        "name": "ACCVSED",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 206,
+    "fields": {
+        "name": "Across Five Aprils",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 207,
+    "fields": {
+        "name": "Adept",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 208,
+    "fields": {
+        "name": "Advent",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 209,
+    "fields": {
+        "name": "After the Burial",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 210,
+    "fields": {
+        "name": "The Afterimage",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 211,
+    "fields": {
+        "name": "The Agonist",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 212,
+    "fields": {
+        "name": "The Agony Scene",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 213,
+    "fields": {
+        "name": "Alazka",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 214,
+    "fields": {
+        "name": "Alesana",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 215,
+    "fields": {
+        "name": "All Pigs Must Die",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 216,
+    "fields": {
+        "name": "All That Remains",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 217,
+    "fields": {
+        "name": "Alpha Wolf",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 218,
+    "fields": {
+        "name": "Amaranthe",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 219,
+    "fields": {
+        "name": "American Me",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 220,
+    "fields": {
+        "name": "American Standards",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 221,
+    "fields": {
+        "name": "The Amity Affliction",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 222,
+    "fields": {
+        "name": "Annisokay",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 223,
+    "fields": {
+        "name": "Antagonist",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 224,
+    "fields": {
+        "name": "Antagonist A.D.",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 225,
+    "fields": {
+        "name": "Any Given Day",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 226,
+    "fields": {
+        "name": "Architects",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 227,
+    "fields": {
+        "name": "Arma Angelus",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 228,
+    "fields": {
+        "name": "The Armed",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 229,
+    "fields": {
+        "name": "Arsonists Get All the Girls",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 230,
+    "fields": {
+        "name": "As Blood Runs Black",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 231,
+    "fields": {
+        "name": "As I Lay Dying",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 232,
+    "fields": {
+        "name": "The Ascendicate",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 233,
+    "fields": {
+        "name": "Asking Alexandria",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 234,
+    "fields": {
+        "name": "Atreyu",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 235,
+    "fields": {
+        "name": "Attack Attack!",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 236,
+    "fields": {
+        "name": "Attila",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 237,
+    "fields": {
+        "name": "AVIANA",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 238,
+    "fields": {
+        "name": "AxeWound",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 239,
+    "fields": {
+        "name": "Bad Omens",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 240,
+    "fields": {
+        "name": "Beartooth",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 241,
+    "fields": {
+        "name": "Beneath the Sky",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 242,
+    "fields": {
+        "name": "Betraying the Martyrs",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 243,
+    "fields": {
+        "name": "Black Veil Brides",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 244,
+    "fields": {
+        "name": "The Bled",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 245,
+    "fields": {
+        "name": "Bleed from Within",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 246,
+    "fields": {
+        "name": "Bleed the Sky",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 247,
+    "fields": {
+        "name": "Bleeding Through",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 248,
+    "fields": {
+        "name": "Blessed by a Broken Heart",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 249,
+    "fields": {
+        "name": "Blessthefall",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 250,
+    "fields": {
+        "name": "Bless the Fallen",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 251,
+    "fields": {
+        "name": "Blood Has Been Shed",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 252,
+    "fields": {
+        "name": "Bloodlined Calligraphy",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 253,
+    "fields": {
+        "name": "Bloodsimple",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 254,
+    "fields": {
+        "name": "Botch",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 255,
+    "fields": {
+        "name": "Boundaries",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 256,
+    "fields": {
+        "name": "A Breach of Silence",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 257,
+    "fields": {
+        "name": "Bring Me the Horizon",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 258,
+    "fields": {
+        "name": "Broken Teeth",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 259,
+    "fields": {
+        "name": "The Browning",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 260,
+    "fields": {
+        "name": "Bullet for My Valentine",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 261,
+    "fields": {
+        "name": "A Bullet for Pretty Boy",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 262,
+    "fields": {
+        "name": "The Bunny the Bear",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 263,
+    "fields": {
+        "name": "Burden of a Day",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 264,
+    "fields": {
+        "name": "Buried in Verona",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 265,
+    "fields": {
+        "name": "Burnt by the Sun",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 266,
+    "fields": {
+        "name": "Bury Tomorrow",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 267,
+    "fields": {
+        "name": "Bury Your Dead",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 268,
+    "fields": {
+        "name": "Butcher Babies",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 269,
+    "fields": {
+        "name": "Caliban",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 270,
+    "fields": {
+        "name": "Callejon",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 271,
+    "fields": {
+        "name": "Cane Hill",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 272,
+    "fields": {
+        "name": "Capture",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 273,
+    "fields": {
+        "name": "Carpathian",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 274,
+    "fields": {
+        "name": "Cataract",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 275,
+    "fields": {
+        "name": "Cave In",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 276,
+    "fields": {
+        "name": "Changer",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 277,
+    "fields": {
+        "name": "The Chariot",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 278,
+    "fields": {
+        "name": "Chimaira",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 279,
+    "fields": {
+        "name": "Chunk! No, Captain Chunk!",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 280,
+    "fields": {
+        "name": "Coalesce",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 281,
+    "fields": {
+        "name": "Code Orange",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 282,
+    "fields": {
+        "name": "Cold as Life",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 283,
+    "fields": {
+        "name": "Coldrain",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 284,
+    "fields": {
+        "name": "The Color Morale",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 285,
+    "fields": {
+        "name": "Confession",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 286,
+    "fields": {
+        "name": "Confessions of a Traitor",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 287,
+    "fields": {
+        "name": "Confide",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 288,
+    "fields": {
+        "name": "Conquer Divide",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 289,
+    "fields": {
+        "name": "Converge",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 290,
+    "fields": {
+        "name": "Corpus Christi",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 291,
+    "fields": {
+        "name": "Counterparts",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 292,
+    "fields": {
+        "name": "Cover Your Tracks",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 293,
+    "fields": {
+        "name": "The Crimson Armada",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 294,
+    "fields": {
+        "name": "Crossfaith",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 295,
+    "fields": {
+        "name": "Crown the Empire",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 296,
+    "fields": {
+        "name": "Cry of the Afflicted",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 297,
+    "fields": {
+        "name": "Crystal Lake",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 298,
+    "fields": {
+        "name": "Cult Leader",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 299,
+    "fields": {
+        "name": "Currents",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 300,
+    "fields": {
+        "name": "Damnation A.D.",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 301,
+    "fields": {
+        "name": "Dar Sangre",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 302,
+    "fields": {
+        "name": "Darkest Hour",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 303,
+    "fields": {
+        "name": "Darkness Divided",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 304,
+    "fields": {
+        "name": "Darkness Dynamite",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 305,
+    "fields": {
+        "name": "Dayseeker",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 306,
+    "fields": {
+        "name": "A Day to Remember",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 307,
+    "fields": {
+        "name": "Dead by April",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 308,
+    "fields": {
+        "name": "The Dead Rabbitts",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 309,
+    "fields": {
+        "name": "Deadguy",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 310,
+    "fields": {
+        "name": "Dead to Fall",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 311,
+    "fields": {
+        "name": "Demon Hunter",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 312,
+    "fields": {
+        "name": "Deny",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 313,
+    "fields": {
+        "name": "Design the Skyline",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 314,
+    "fields": {
+        "name": "Destroy the Runner",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 315,
+    "fields": {
+        "name": "Devil Sold His Soul",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 316,
+    "fields": {
+        "name": "The Devil Wears Prada",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 317,
+    "fields": {
+        "name": "Diecast",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 318,
+    "fields": {
+        "name": "Disembodied",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 319,
+    "fields": {
+        "name": "Doch Chkae",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 320,
+    "fields": {
+        "name": "Dream On, Dreamer",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 321,
+    "fields": {
+        "name": "Drowningman",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 322,
+    "fields": {
+        "name": "Dry Kill Logic",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 323,
+    "fields": {
+        "name": "Earth Crisis",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 324,
+    "fields": {
+        "name": "Eighteen Visions",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 325,
+    "fields": {
+        "name": "Electric Callboy",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 326,
+    "fields": {
+        "name": "Embrace the End",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 327,
+    "fields": {
+        "name": "Emmure",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 328,
+    "fields": {
+        "name": "Employed to Serve",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 329,
+    "fields": {
+        "name": "Enter Shikari",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 330,
+    "fields": {
+        "name": "Erra",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 331,
+    "fields": {
+        "name": "Escape the Fate",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 332,
+    "fields": {
+        "name": "Eso-Charis",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 333,
+    "fields": {
+        "name": "The Esoteric",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 334,
+    "fields": {
+        "name": "Eternal Lord",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 335,
+    "fields": {
+        "name": "Evergreen Terrace",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 336,
+    "fields": {
+        "name": "Every Time I Die",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 337,
+    "fields": {
+        "name": "Every Knee Shall Bow",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 338,
+    "fields": {
+        "name": "Everyone Dies in Utah",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 339,
+    "fields": {
+        "name": "The Eyes of a Traitor",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 340,
+    "fields": {
+        "name": "Eyes Set to Kill",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 341,
+    "fields": {
+        "name": "Falling in Reverse",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 342,
+    "fields": {
+        "name": "Famous Last Words",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 343,
+    "fields": {
+        "name": "Fear, and Loathing in Las Vegas",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 344,
+    "fields": {
+        "name": "Fear Before",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 345,
+    "fields": {
+        "name": "Feed Her to the Sharks",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 346,
+    "fields": {
+        "name": "Figure Four",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 347,
+    "fields": {
+        "name": "Fit for a King",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 348,
+    "fields": {
+        "name": "Focused",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 349,
+    "fields": {
+        "name": "For All Eternity",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 350,
+    "fields": {
+        "name": "For All I Am",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 351,
+    "fields": {
+        "name": "For All Those Sleeping",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 352,
+    "fields": {
+        "name": "For the Fallen Dreams",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 353,
+    "fields": {
+        "name": "For Today",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 354,
+    "fields": {
+        "name": "Forevermore",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 355,
+    "fields": {
+        "name": "From a Second Story Window",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 356,
+    "fields": {
+        "name": "From Autumn to Ashes",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 357,
+    "fields": {
+        "name": "Full Blown Chaos",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 358,
+    "fields": {
+        "name": "The Ghost Inside",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 359,
+    "fields": {
+        "name": "Gaza",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 360,
+    "fields": {
+        "name": "Get Scared",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 361,
+    "fields": {
+        "name": "Gideon",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 362,
+    "fields": {
+        "name": "Glamour of the Kill",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 363,
+    "fields": {
+        "name": "Glass Cloud",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 364,
+    "fields": {
+        "name": "God Forbid",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 365,
+    "fields": {
+        "name": "Goodbye to Gravity",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 366,
+    "fields": {
+        "name": "Graves of Valor",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 367,
+    "fields": {
+        "name": "The Great Commission",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 368,
+    "fields": {
+        "name": "Greeley Estates",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 369,
+    "fields": {
+        "name": "Gulch",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 370,
+    "fields": {
+        "name": "Gunmetal Grey",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 371,
+    "fields": {
+        "name": "Gwen Stacy",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 372,
+    "fields": {
+        "name": "Half Me",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 373,
+    "fields": {
+        "name": "Hanabie.",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 374,
+    "fields": {
+        "name": "Haste the Day",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 375,
+    "fields": {
+        "name": "Hatebreed",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 376,
+    "fields": {
+        "name": "Hell Within",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 377,
+    "fields": {
+        "name": "Heart in Hand",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 378,
+    "fields": {
+        "name": "Heaven Shall Burn",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 379,
+    "fields": {
+        "name": "Heavy Heavy Low Low",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 380,
+    "fields": {
+        "name": "Heriot",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 381,
+    "fields": {
+        "name": "Himsa",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 382,
+    "fields": {
+        "name": "Hollow Front",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 383,
+    "fields": {
+        "name": "The Hope Conspiracy",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 384,
+    "fields": {
+        "name": "Horse the Band",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 385,
+    "fields": {
+        "name": "House vs. Hurricane",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 386,
+    "fields": {
+        "name": "I Killed the Prom Queen",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 387,
+    "fields": {
+        "name": "I Prevail",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 388,
+    "fields": {
+        "name": "I See Stars",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 389,
+    "fields": {
+        "name": "I Set My Friends on Fire",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 390,
+    "fields": {
+        "name": "I, the Breather",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 391,
+    "fields": {
+        "name": "Ice Nine Kills",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 392,
+    "fields": {
+        "name": "Icepick",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 393,
+    "fields": {
+        "name": "Imminence",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 394,
+    "fields": {
+        "name": "In Dying Arms",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 395,
+    "fields": {
+        "name": "In Fear and Faith",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 396,
+    "fields": {
+        "name": "In Hearts Wake",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 397,
+    "fields": {
+        "name": "In This Moment",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 398,
+    "fields": {
+        "name": "Infected Rain",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 399,
+    "fields": {
+        "name": "Inhale Exhale",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 400,
+    "fields": {
+        "name": "Integrity",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 401,
+    "fields": {
+        "name": "Invent Animate",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 402,
+    "fields": {
+        "name": "Ion Dissonance",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 403,
+    "fields": {
+        "name": "Issues",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 404,
+    "fields": {
+        "name": "It Dies Today",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 405,
+    "fields": {
+        "name": "It Prevails",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 406,
+    "fields": {
+        "name": "Iwrestledabearonce",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 407,
+    "fields": {
+        "name": "Jamie's Elsewhere",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 408,
+    "fields": {
+        "name": "Jesus Piece",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 409,
+    "fields": {
+        "name": "Johnny Truant",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 410,
+    "fields": {
+        "name": "The Killing Tree",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 411,
+    "fields": {
+        "name": "Killswitch Engage",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 412,
+    "fields": {
+        "name": "King 810",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 413,
+    "fields": {
+        "name": "Knocked Loose",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 414,
+    "fields": {
+        "name": "Kublai Khan",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 415,
+    "fields": {
+        "name": "Lamb of God",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 416,
+    "fields": {
+        "name": "Landmvrks",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 417,
+    "fields": {
+        "name": "Last Chance to Reason",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 418,
+    "fields": {
+        "name": "Letlive",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 419,
+    "fields": {
+        "name": "Life in Your Way",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 420,
+    "fields": {
+        "name": "A Life Once Lost",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 421,
+    "fields": {
+        "name": "Liferuiner",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 422,
+    "fields": {
+        "name": "Ligeia",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 423,
+    "fields": {
+        "name": "Light the Torch",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 424,
+    "fields": {
+        "name": "Like Moths to Flames",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 425,
+    "fields": {
+        "name": "Living Sacrifice",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 426,
+    "fields": {
+        "name": "Lorna Shore",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 427,
+    "fields": {
+        "name": "Malevolence",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 428,
+    "fields": {
+        "name": "Make Me Famous",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 429,
+    "fields": {
+        "name": "Make Them Suffer",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 430,
+    "fields": {
+        "name": "Maximum the Hormone",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 431,
+    "fields": {
+        "name": "Memphis May Fire",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 432,
+    "fields": {
+        "name": "Merauder",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 433,
+    "fields": {
+        "name": "Misery Signals",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 434,
+    "fields": {
+        "name": "Miss May I",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 435,
+    "fields": {
+        "name": "Morning Again",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 436,
+    "fields": {
+        "name": "Most Precious Blood",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 437,
+    "fields": {
+        "name": "Motionless in White",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 438,
+    "fields": {
+        "name": "My Ticket Home",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 439,
+    "fields": {
+        "name": "MyChildren MyBride",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 440,
+    "fields": {
+        "name": "Myka, Relocate",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 441,
+    "fields": {
+        "name": "Night Rider",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 442,
+    "fields": {
+        "name": "Nine Shrines",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 443,
+    "fields": {
+        "name": "Nora",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 444,
+    "fields": {
+        "name": "Norma Jean",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 445,
+    "fields": {
+        "name": "Novelists",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 446,
+    "fields": {
+        "name": "The Number Twelve Looks Like You",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 447,
+    "fields": {
+        "name": "Oathbreaker",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 448,
+    "fields": {
+        "name": "Obey the Brave",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 449,
+    "fields": {
+        "name": "Ocean Sleeper",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 450,
+    "fields": {
+        "name": "Oceans Ate Alaska",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 451,
+    "fields": {
+        "name": "Odd Project",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 452,
+    "fields": {
+        "name": "Of Mice & Men",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 453,
+    "fields": {
+        "name": "Oh, Sleeper",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 454,
+    "fields": {
+        "name": "The Oklahoma Kid",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 455,
+    "fields": {
+        "name": "On Broken Wings",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 456,
+    "fields": {
+        "name": "Once Nothing",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 457,
+    "fields": {
+        "name": "One Morning Left",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 458,
+    "fields": {
+        "name": "The Ongoing Concept",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 459,
+    "fields": {
+        "name": "Our Last Night",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 460,
+    "fields": {
+        "name": "Our Mirage",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 461,
+    "fields": {
+        "name": "Overcast",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 462,
+    "fields": {
+        "name": "Overcome",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 463,
+    "fields": {
+        "name": "The Overseer",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 464,
+    "fields": {
+        "name": "Pain of Truth",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 465,
+    "fields": {
+        "name": "Palisades",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 466,
+    "fields": {
+        "name": "Parkway Drive",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 467,
+    "fields": {
+        "name": "Phinehas",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 468,
+    "fields": {
+        "name": "A Plea for Purging",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 469,
+    "fields": {
+        "name": "Polaris",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 470,
+    "fields": {
+        "name": "The Plot in You",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 471,
+    "fields": {
+        "name": "Poison the Well",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 472,
+    "fields": {
+        "name": "Prayer for Cleansing",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 473,
+    "fields": {
+        "name": "Racetraitor",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 474,
+    "fields": {
+        "name": "Ravenface",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 475,
+    "fields": {
+        "name": "RedHook",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 476,
+    "fields": {
+        "name": "Reflections",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 477,
+    "fields": {
+        "name": "Ringworm",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 478,
+    "fields": {
+        "name": "Rise to Remain",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 479,
+    "fields": {
+        "name": "Rising Insane",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 480,
+    "fields": {
+        "name": "Rolo Tomassi",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 481,
+    "fields": {
+        "name": "Rorschach",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 482,
+    "fields": {
+        "name": "Scarlet",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 483,
+    "fields": {
+        "name": "Scars of Tomorrow",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 484,
+    "fields": {
+        "name": "Secrets",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 485,
+    "fields": {
+        "name": "Senses Fail",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 486,
+    "fields": {
+        "name": "Sea of Treachery",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 487,
+    "fields": {
+        "name": "SeeYouSpaceCowboy",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 488,
+    "fields": {
+        "name": "Shadows Fall",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 489,
+    "fields": {
+        "name": "Sharptooth",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 490,
+    "fields": {
+        "name": "Shai Hulud",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 491,
+    "fields": {
+        "name": "Shattered Sun",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 492,
+    "fields": {
+        "name": "Shoreside",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 493,
+    "fields": {
+        "name": "Showbread",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 494,
+    "fields": {
+        "name": "The Showdown",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 495,
+    "fields": {
+        "name": "Silent Civilian",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 496,
+    "fields": {
+        "name": "Silent Planet",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 497,
+    "fields": {
+        "name": "Silent Screams",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 498,
+    "fields": {
+        "name": "Sirens and Sailors",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 499,
+    "fields": {
+        "name": "Skip the Foreplay",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 500,
+    "fields": {
+        "name": "Sky Eats Airplane",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 501,
+    "fields": {
+        "name": "A Skylit Drive",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 502,
+    "fields": {
+        "name": "Sleeping by the Riverside",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 503,
+    "fields": {
+        "name": "Sleeping Giant",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 504,
+    "fields": {
+        "name": "Sleeping with Sirens",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 505,
+    "fields": {
+        "name": "Snapcase",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 506,
+    "fields": {
+        "name": "Society's Finest",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 507,
+    "fields": {
+        "name": "Sonic Syndicate",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 508,
+    "fields": {
+        "name": "The Sorrow",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 509,
+    "fields": {
+        "name": "Spitfire",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 510,
+    "fields": {
+        "name": "Static Dress",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 511,
+    "fields": {
+        "name": "Starkweather",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 512,
+    "fields": {
+        "name": "Stick to Your Guns",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 513,
+    "fields": {
+        "name": "Still Remains",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 514,
+    "fields": {
+        "name": "Straight Line Stitch",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 515,
+    "fields": {
+        "name": "Stray from the Path",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 516,
+    "fields": {
+        "name": "Sunami",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 517,
+    "fields": {
+        "name": "Sworn In",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 518,
+    "fields": {
+        "name": "Sylar",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 519,
+    "fields": {
+        "name": "Sylosis",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 520,
+    "fields": {
+        "name": "Tallah",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 521,
+    "fields": {
+        "name": "Tear Out the Heart",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 522,
+    "fields": {
+        "name": "Tetrarch",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 523,
+    "fields": {
+        "name": "Texas in July",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 524,
+    "fields": {
+        "name": "Textures",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 525,
+    "fields": {
+        "name": "The Autumn Offering",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 526,
+    "fields": {
+        "name": "This or the Apocalypse",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 527,
+    "fields": {
+        "name": "Thousand Below",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 528,
+    "fields": {
+        "name": "Threat Signal",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 529,
+    "fields": {
+        "name": "Throwdown",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 530,
+    "fields": {
+        "name": "Thrown into Exile",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 531,
+    "fields": {
+        "name": "Thy Will Be Done",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 532,
+    "fields": {
+        "name": "Times of Grace",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 533,
+    "fields": {
+        "name": "To Speak of Wolves",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 534,
+    "fields": {
+        "name": "The Tony Danza Tapdance Extravaganza",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 535,
+    "fields": {
+        "name": "Training for Utopia",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 536,
+    "fields": {
+        "name": "Trenches",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 537,
+    "fields": {
+        "name": "Twelve Gauge Valentine",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 538,
+    "fields": {
+        "name": "Twelve Tribes",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 539,
+    "fields": {
+        "name": "Twitching Tongues",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 540,
+    "fields": {
+        "name": "Underoath",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 541,
+    "fields": {
+        "name": "Unearth",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 542,
+    "fields": {
+        "name": "Until I Wake",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 543,
+    "fields": {
+        "name": "Upon a Burning Body",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 544,
+    "fields": {
+        "name": "Upon This Dawning",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 545,
+    "fields": {
+        "name": "Vampires Everywhere!",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 546,
+    "fields": {
+        "name": "Vanna",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 547,
+    "fields": {
+        "name": "Varials",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 548,
+    "fields": {
+        "name": "Vassline",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 549,
+    "fields": {
+        "name": "Veil of Maya",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 550,
+    "fields": {
+        "name": "Vein.fm",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 551,
+    "fields": {
+        "name": "VENUES",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 552,
+    "fields": {
+        "name": "Versus Me",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 553,
+    "fields": {
+        "name": "Vicious Rain",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 554,
+    "fields": {
+        "name": "Vision of Disorder",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 555,
+    "fields": {
+        "name": "Volumes",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 556,
+    "fields": {
+        "name": "Wage War",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 557,
+    "fields": {
+        "name": "Walls of Jericho",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 558,
+    "fields": {
+        "name": "War from a Harlots Mouth",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 559,
+    "fields": {
+        "name": "War of Ages",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 560,
+    "fields": {
+        "name": "We Butter the Bread with Butter",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 561,
+    "fields": {
+        "name": "We Came as Romans",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 562,
+    "fields": {
+        "name": "Westfield Massacre",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 563,
+    "fields": {
+        "name": "While She Sleeps",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 564,
+    "fields": {
+        "name": "The White Noise",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 565,
+    "fields": {
+        "name": "Will Haven",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 566,
+    "fields": {
+        "name": "Windwaker",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 567,
+    "fields": {
+        "name": "Within the Ruins",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 568,
+    "fields": {
+        "name": "Woe, Is Me",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 569,
+    "fields": {
+        "name": "Wolves at the Gate",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 570,
+    "fields": {
+        "name": "The Word Alive",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 571,
+    "fields": {
+        "name": "Wovenwar",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 572,
+    "fields": {
+        "name": "xDeathstarx",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 573,
+    "fields": {
+        "name": "Xibalba",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 574,
+    "fields": {
+        "name": "Yashin",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 575,
+    "fields": {
+        "name": "Years Since the Storm",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 576,
+    "fields": {
+        "name": "Your Memorial",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 577,
+    "fields": {
+        "name": "Zao",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 578,
+    "fields": {
+        "name": "Zulu",
+        "genre": "Metalcore"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 579,
+    "fields": {
+        "name": "The Academy Is...",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 580,
+    "fields": {
+        "name": "Acceptance",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 581,
+    "fields": {
+        "name": "Ace Troubleshooter",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 582,
+    "fields": {
+        "name": "AFI",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 583,
+    "fields": {
+        "name": "Aiden",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 584,
+    "fields": {
+        "name": "Alesana",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 585,
+    "fields": {
+        "name": "Alexisonfire",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 586,
+    "fields": {
+        "name": "Alkaline Trio",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 587,
+    "fields": {
+        "name": "The All-American Rejects",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 588,
+    "fields": {
+        "name": "All Time Low",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 589,
+    "fields": {
+        "name": "The Almost",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 590,
+    "fields": {
+        "name": "Amber Pacific",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 591,
+    "fields": {
+        "name": "American Football",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 592,
+    "fields": {
+        "name": "Anberlin",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 593,
+    "fields": {
+        "name": "And Then There Were None",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 594,
+    "fields": {
+        "name": "...And You Will Know Us by the Trail of Dead",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 595,
+    "fields": {
+        "name": "The Anniversary",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 596,
+    "fields": {
+        "name": "The Appleseed Cast",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 597,
+    "fields": {
+        "name": "Armor for Sleep",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 598,
+    "fields": {
+        "name": "As Cities Burn",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 599,
+    "fields": {
+        "name": "At the Drive-In",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 600,
+    "fields": {
+        "name": "August is Falling",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 601,
+    "fields": {
+        "name": "Avion Roe",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 602,
+    "fields": {
+        "name": "Bayside",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 603,
+    "fields": {
+        "name": "Beefeater",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 604,
+    "fields": {
+        "name": "Before Their Eyes",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 605,
+    "fields": {
+        "name": "Beloved",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 606,
+    "fields": {
+        "name": "Benton Falls",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 607,
+    "fields": {
+        "name": "Black Veil Brides",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 608,
+    "fields": {
+        "name": "Boys Like Girls",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 609,
+    "fields": {
+        "name": "Boys Night Out",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 610,
+    "fields": {
+        "name": "Braid",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 611,
+    "fields": {
+        "name": "Brand New",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 612,
+    "fields": {
+        "name": "The Brave Little Abacus",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 613,
+    "fields": {
+        "name": "Bring Me the Horizon",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 614,
+    "fields": {
+        "name": "The Cab",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 615,
+    "fields": {
+        "name": "Capital Lights",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 616,
+    "fields": {
+        "name": "Cap'n Jazz",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 617,
+    "fields": {
+        "name": "Chamberlain",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 618,
+    "fields": {
+        "name": "Chasing Victory",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 619,
+    "fields": {
+        "name": "Christie Front Drive",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 620,
+    "fields": {
+        "name": "City of Caterpillar",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 621,
+    "fields": {
+        "name": "The Classic Crime",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 622,
+    "fields": {
+        "name": "Cobra Starship",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 623,
+    "fields": {
+        "name": "Coheed and Cambria",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 624,
+    "fields": {
+        "name": "Cute Is What We Aim For",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 625,
+    "fields": {
+        "name": "Dads",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 626,
+    "fields": {
+        "name": "Dag Nasty",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 627,
+    "fields": {
+        "name": "Dashboard Confessional",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 628,
+    "fields": {
+        "name": "A Day to Remember",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 629,
+    "fields": {
+        "name": "Dead Poetic",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 630,
+    "fields": {
+        "name": "Dear Ephesus",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 631,
+    "fields": {
+        "name": "Death Cab for Cutie",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 632,
+    "fields": {
+        "name": "The Dismemberment Plan",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 633,
+    "fields": {
+        "name": "Dizmas",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 634,
+    "fields": {
+        "name": "Drive Like Jehu",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 635,
+    "fields": {
+        "name": "Edison Glass",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 636,
+    "fields": {
+        "name": "Eisley",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 637,
+    "fields": {
+        "name": "Elliott",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 638,
+    "fields": {
+        "name": "Emanuel",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 639,
+    "fields": {
+        "name": "Embrace",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 640,
+    "fields": {
+        "name": "Emery",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 641,
+    "fields": {
+        "name": "Empire! Empire! (I Was a Lonely Estate)",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 642,
+    "fields": {
+        "name": "Escape the Fate",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 643,
+    "fields": {
+        "name": "Ever Stays Red",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 644,
+    "fields": {
+        "name": "Every Avenue",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 645,
+    "fields": {
+        "name": "Everyone Asked About You",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 646,
+    "fields": {
+        "name": "Eyes Set to Kill",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 647,
+    "fields": {
+        "name": "Fall Out Boy",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 648,
+    "fields": {
+        "name": "Falling in Reverse",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 649,
+    "fields": {
+        "name": "Falling Up",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 650,
+    "fields": {
+        "name": "Family Force 5",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 651,
+    "fields": {
+        "name": "Farewell, My Love",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 652,
+    "fields": {
+        "name": "Finch",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 653,
+    "fields": {
+        "name": "Fire Party",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 654,
+    "fields": {
+        "name": "Fireflight",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 655,
+    "fields": {
+        "name": "Flyleaf",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 656,
+    "fields": {
+        "name": "The Fold",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 657,
+    "fields": {
+        "name": "Forever Changed",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 658,
+    "fields": {
+        "name": "Forever the Sickest Kids",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 659,
+    "fields": {
+        "name": "Foxing",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 660,
+    "fields": {
+        "name": "Fragile Rock",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 661,
+    "fields": {
+        "name": "The Fray",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 662,
+    "fields": {
+        "name": "From Autumn to Ashes",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 663,
+    "fields": {
+        "name": "From First to Last",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 664,
+    "fields": {
+        "name": "Funeral for a Friend",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 665,
+    "fields": {
+        "name": "Further Seems Forever",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 666,
+    "fields": {
+        "name": "Garden Variety",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 667,
+    "fields": {
+        "name": "The Get Up Kids",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 668,
+    "fields": {
+        "name": "Gray Matter",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 669,
+    "fields": {
+        "name": "Gwen Stacy",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 670,
+    "fields": {
+        "name": "Haste the Day",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 671,
+    "fields": {
+        "name": "Hawk Nelson",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 672,
+    "fields": {
+        "name": "Hawthorne Heights",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 674,
+    "fields": {
+        "name": "Hellogoodbye",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 675,
+    "fields": {
+        "name": "Hey Mercedes",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 676,
+    "fields": {
+        "name": "Hey Monday",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 677,
+    "fields": {
+        "name": "The Higher",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 678,
+    "fields": {
+        "name": "Hoover",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 679,
+    "fields": {
+        "name": "Hot Rod Circuit",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 680,
+    "fields": {
+        "name": "The Hotelier",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 681,
+    "fields": {
+        "name": "House of Heroes",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 682,
+    "fields": {
+        "name": "I Am Ghost",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 683,
+    "fields": {
+        "name": "Ida",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 684,
+    "fields": {
+        "name": "Indian Summer",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 685,
+    "fields": {
+        "name": "Ivoryline",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 686,
+    "fields": {
+        "name": "Jawbreaker",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 687,
+    "fields": {
+        "name": "Jets to Brazil",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 688,
+    "fields": {
+        "name": "Jetty Bones",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 689,
+    "fields": {
+        "name": "Jimmy Eat World",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 690,
+    "fields": {
+        "name": "Joan of Arc",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 691,
+    "fields": {
+        "name": "The Juliana Theory",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 692,
+    "fields": {
+        "name": "The Junior Varsity",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 693,
+    "fields": {
+        "name": "Karate",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 694,
+    "fields": {
+        "name": "Kids in the Way",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 695,
+    "fields": {
+        "name": "Knapsack",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 696,
+    "fields": {
+        "name": "Kutless",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 697,
+    "fields": {
+        "name": "Letter Kills",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 698,
+    "fields": {
+        "name": "Life in Your Way",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 699,
+    "fields": {
+        "name": "Lifetime",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 700,
+    "fields": {
+        "name": "Lostprophets",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 701,
+    "fields": {
+        "name": "Mae",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 702,
+    "fields": {
+        "name": "The Maine",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 703,
+    "fields": {
+        "name": "Matchbook Romance",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 704,
+    "fields": {
+        "name": "Mayday Parade",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 705,
+    "fields": {
+        "name": "Metro Station",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 706,
+    "fields": {
+        "name": "Krystal Meyers",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 707,
+    "fields": {
+        "name": "Mineral",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 708,
+    "fields": {
+        "name": "Modern Baseball",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 709,
+    "fields": {
+        "name": "Mom Jeans",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 710,
+    "fields": {
+        "name": "Moneen",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 711,
+    "fields": {
+        "name": "Moose Blood",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 712,
+    "fields": {
+        "name": "Moss Icon",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 713,
+    "fields": {
+        "name": "The Movielife",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 714,
+    "fields": {
+        "name": "My Chemical Romance",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 715,
+    "fields": {
+        "name": "Native Nod",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 716,
+    "fields": {
+        "name": "New Found Glory",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 717,
+    "fields": {
+        "name": "Noise Ratchet",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 718,
+    "fields": {
+        "name": "Northstar",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 719,
+    "fields": {
+        "name": "Nude",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 720,
+    "fields": {
+        "name": "Number One Gun",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 721,
+    "fields": {
+        "name": "Ogbert the Nerd",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 722,
+    "fields": {
+        "name": "One Ok Rock",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 723,
+    "fields": {
+        "name": "Once Nothing",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 724,
+    "fields": {
+        "name": "Origami Angel",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 725,
+    "fields": {
+        "name": "Our Last Night",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 726,
+    "fields": {
+        "name": "Panic! at the Disco",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 727,
+    "fields": {
+        "name": "Paramore",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 728,
+    "fields": {
+        "name": "Pg. 99",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 729,
+    "fields": {
+        "name": "Philmont",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 730,
+    "fields": {
+        "name": "Pierce the Veil",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 731,
+    "fields": {
+        "name": "Pillar",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 732,
+    "fields": {
+        "name": "Plain White T's",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 733,
+    "fields": {
+        "name": "Pop Unknown",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 734,
+    "fields": {
+        "name": "The Promise Ring",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 735,
+    "fields": {
+        "name": "Punchline",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 736,
+    "fields": {
+        "name": "Rainer Maria",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 737,
+    "fields": {
+        "name": "The Red Jumpsuit Apparatus",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 738,
+    "fields": {
+        "name": "Rites of Spring",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 739,
+    "fields": {
+        "name": "Roses Are Red",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 740,
+    "fields": {
+        "name": "Rye Coalition",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 741,
+    "fields": {
+        "name": "Saetia",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 742,
+    "fields": {
+        "name": "Samiam",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 743,
+    "fields": {
+        "name": "Saosin",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 744,
+    "fields": {
+        "name": "Saves the Day",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 745,
+    "fields": {
+        "name": "Say Anything",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 746,
+    "fields": {
+        "name": "Secondhand Serenade",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 747,
+    "fields": {
+        "name": "Secret and Whisper",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 748,
+    "fields": {
+        "name": "Senses Fail",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 749,
+    "fields": {
+        "name": "Sherwood",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 750,
+    "fields": {
+        "name": "Showbread",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 751,
+    "fields": {
+        "name": "Silverstein",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 752,
+    "fields": {
+        "name": "Simple Plan",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 753,
+    "fields": {
+        "name": "Small Brown Bike",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 754,
+    "fields": {
+        "name": "Sleeping with Sirens",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 755,
+    "fields": {
+        "name": "Something Corporate",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 756,
+    "fields": {
+        "name": "Spanish Love Songs",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 757,
+    "fields": {
+        "name": "The Spill Canvas",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 758,
+    "fields": {
+        "name": "Split Lip",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 759,
+    "fields": {
+        "name": "Squirrel Bait",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 760,
+    "fields": {
+        "name": "Static Dress",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 761,
+    "fields": {
+        "name": "The Starting Line",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 762,
+    "fields": {
+        "name": "Stavesacre",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 763,
+    "fields": {
+        "name": "Story of the Year",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 764,
+    "fields": {
+        "name": "Sum 41",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 765,
+    "fields": {
+        "name": "Sunny Day Real Estate",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 766,
+    "fields": {
+        "name": "Taking Back Sunday",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 767,
+    "fields": {
+        "name": "Ten Second Epic",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 768,
+    "fields": {
+        "name": "Texas Is the Reason",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 769,
+    "fields": {
+        "name": "There for Tomorrow",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 770,
+    "fields": {
+        "name": "Thirty Seconds to Mars",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 771,
+    "fields": {
+        "name": "This Beautiful Republic",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 772,
+    "fields": {
+        "name": "This Providence",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 773,
+    "fields": {
+        "name": "Twenty One Pilots",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 774,
+    "fields": {
+        "name": "Thrice",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 775,
+    "fields": {
+        "name": "Thursday",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 776,
+    "fields": {
+        "name": "Tokio Hotel",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 777,
+    "fields": {
+        "name": "Typecast",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 778,
+    "fields": {
+        "name": "Underoath",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 779,
+    "fields": {
+        "name": "The Used",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 780,
+    "fields": {
+        "name": "The Van Pelt",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 781,
+    "fields": {
+        "name": "Watashi Wa",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 782,
+    "fields": {
+        "name": "The Wedding",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 783,
+    "fields": {
+        "name": "The World Is a Beautiful Place & I Am No Longer Afraid to Die",
+        "genre": "Emo"
+    }
+  },
+  {
+    "model": "merchexchangeapi.artist",
+    "pk": 784,
+    "fields": {
+        "name": "You, Me, and Everyone We Know",
+        "genre": "Emo"
+    }
+  }
+]
