@@ -26,8 +26,8 @@ def check_user(request):
             'email': user.email,
             'bio': user.bio,
             'uid': user.uid,
-            'is_admin': False,
-            'is_artist': False
+            'is_admin': user.is_admin,
+            'is_artist': user.is_artist,
         }
         return Response(data)
     else:

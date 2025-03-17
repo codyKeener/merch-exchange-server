@@ -80,7 +80,7 @@ class ListingSerializer(serializers.ModelSerializer):
   class Meta:
     model = Listing
     fields = ('id', 'title', 'artist', 'category', 'description', 'price', 'size', 'condition', 'image', 'created_by', 'created_at', 'published', 'sold')
-    # depth = 1
+    depth = 1
   
 class UserSerializer(serializers.ModelSerializer):
 
@@ -88,4 +88,4 @@ class UserSerializer(serializers.ModelSerializer):
   class Meta:
     model = User
     fields = ('id', 'username', 'first_name', 'last_name', 'email', 'bio', 'profile_pic', 'uid', 'is_admin', 'is_artist', 'wishlist_listings')
-    depth = 1
+    depth = 2
