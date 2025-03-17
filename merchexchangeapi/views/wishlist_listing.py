@@ -20,7 +20,15 @@ class WishListListingView(ViewSet):
 
     def list(self, request):
         
+        user = request.query_params.get('user', None)
+        listing = request.query_params.get('listing', None)
+        
         wishlist_listings = WishlistListing.objects.all()
+        
+        if user is not None:
+           wishlist_listings = wishlist_listings.filter(user=user)
+        if listing is not None:
+            wishlist_listings = wishlist_listings.filter(listing=listing)
         
         serializer = WishlistListingSerializer(wishlist_listings, many=True)
         return Response(serializer.data)
